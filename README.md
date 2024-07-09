@@ -1,5 +1,11 @@
 # Yolov5_Vehicle Collision Detection
 
+
+
+https://github.com/Nbn03/Yolov5_Vehicle-Collision-Detection/assets/136473086/0658f999-6309-41d1-9784-eb08545bd04b
+
+
+
 ## Overview
 This repository contains code for detecting vehicle collisions using Yolov5 and OpenCV. The model is trained to detect cars, forklifts, and collisions, alerting when a collision occurs in the video frames. The output video is saved locally with the detected collisions highlighted.
 
